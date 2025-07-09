@@ -1,4 +1,4 @@
-```markdown
+
 # 🔢 React Counter App
 
 A beginner-friendly counter application built using React. This project was developed to understand and implement fundamental React concepts like state management, component structure, and event handling.
@@ -50,5 +50,4 @@ src/
 ## 🧑‍💻 Author
 
 [Raksha Sinha](https://github.com/rakshasinha1908)
-```
 
