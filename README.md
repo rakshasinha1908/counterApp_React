@@ -1,38 +1,38 @@
-
 ```markdown
 # 🔢 React Counter App
 
-A simple counter app built using **React** — my first hands-on mini project to explore core React concepts like state management and event handling.
+A beginner-friendly counter application built using React. This project was developed to understand and implement fundamental React concepts like state management, component structure, and event handling.
 
 ---
 
 ## 🚀 Features
 
-- Increase, decrease, and reset the counter
-- Counter doesn't go below 0 (disabled button)
-- Clean UI with glassmorphism effect
+- Increment and decrement counter functionality
+- Reset button to restore count to 0
+- Decrement button gets disabled at 0 to prevent negative values
+- Minimal and responsive UI with glassmorphism design
 
 ---
 
-## 📚 What I Learned
+## 📚 Concepts Covered
 
-- Creating and using **functional components**
-- Managing state with **`useState`**
-- Handling user events using **`onClick`**
-- Conditional rendering (disable buttons at a condition)
-- JSX structure and component rendering
+- Functional components in React
+- State management using the `useState` hook
+- Handling user interactions with event listeners
+- Conditional rendering in JSX
+- Component-based UI structuring
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠 Tech Stack
 
-- React (via `create-react-app`)
+- React (via Create React App)
 - JavaScript (ES6+)
-- HTML & CSS
+- HTML5 & CSS3
 
 ---
 
-## 📂 Folder Structure
+## 📁 Folder Structure
 
 ```
 
@@ -43,23 +43,12 @@ src/
 ├── App.css
 └── index.css
 
-````
-
----
-
-## 📦 Installation & Run Locally
-
-```bash
-git clone https://github.com/yourusername/counter-app.git
-cd counter-app
-npm install
-npm start
-````
-
----
-
-## 🌟 Author
-
-* [Raksha Sinha](https://github.com/rakshasinha1908)
-
 ```
+
+---
+
+## 🧑‍💻 Author
+
+[Raksha Sinha](https://github.com/rakshasinha1908)
+```
+
